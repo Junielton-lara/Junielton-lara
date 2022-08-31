@@ -2,7 +2,7 @@
 <h1 align="center">Bem vindo!</h1>
 <p align="justify">Pode me chamar de Junior :) tenho 25 anos sou Desenvolvedor de robos de testes de softwares Web/API, atualmente trabalho na Prime control, alocado no cliente O Boticário.</p>
 <p align="justify">Analista de sistemas | Quality assurance Pleno | Analista de testes</p>
-<h2>Tecnologias</h2>
+<!-- <h2>Tecnologias</h2> -->
 <div align="center">
   <a href="https://github.com/Junielton-lara">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junielton-lara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
@@ -28,4 +28,4 @@
  
   ![Snake animation](https://github.com/Junielton-lara/Junielton-lara/blob/output/github-contribution-grid-snake.svg)
  
-</div> --> --> -->
+
