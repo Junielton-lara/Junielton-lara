@@ -1,6 +1,5 @@
 
-<h1 align="center">Bem vindo!</h1>
-<p align="justify">:)</p>
+<h1 align="center">Bem vindo em meu Github</h1>
 <p align="justify">Universidade Positivo - Curso Superior de Tecnologia (CST), Analise e desenvolvimento de sistemas jan de 2019 - dez de 2022</h2>
 <p align="justify">Founder AMEPS | Software QA Analyst | RPA Developer | Python | Robot Framework</h2>
 <p align="justify">QA Analyst, Automation, RPA 2.
