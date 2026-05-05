@@ -16,7 +16,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="30" width="40" src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1024x576.png"> -->
   <!-- <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://miro.medium.com/max/1400/1*nEwEHNSUrakbfCkaC_Vgzw.jpeg"> -->
-</div> -->
+
   
   ##
  
@@ -26,6 +26,6 @@
   <a href = "mailto:junieltonlara01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junielton-lara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
  
-  ![Snake animation](https://github.com/Junielton-lara/Junielton-lara/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
